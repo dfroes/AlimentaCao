@@ -71,6 +71,19 @@ O servo motor micro, é um componente que permite a movimentação de outras par
 
 
 
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/54864164/119923347-e88bee80-bf47-11eb-8683-a624720f81e4.png" width="300px" />
+</div>
+
+### Tubolata de Kraft
+Material utilizado para montagem da estrutura física do protótipo.
+
+
+
+
+
 ## Lógica, Estrutura, Circuito Elétrico e Conexão MQTT
 
 ### Fluxograma do Sistema
